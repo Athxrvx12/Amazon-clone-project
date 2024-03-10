@@ -18,4 +18,5 @@
 .logo{
     background-image: url(Amazon-Logo.png);
     height: 50px;
+    width: 100%;
 }
