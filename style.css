@@ -53,5 +53,6 @@
 .nav-search{
     display: flex;
     background-color: grey;
+    width: 620px;
     border-radius: 4px;
 }
