@@ -87,6 +87,10 @@
     border-bottom-right-radius: 4px;
 }
 
+.nav-search:hover{
+    border: 2px solid orange;
+}
+
 /** box 4**/
 span{
     font-size: 0.7rem;
