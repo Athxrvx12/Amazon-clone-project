@@ -119,6 +119,7 @@ span{
     color: white;
     align-items: center;
     justify-content: space-evenly;
+    cursor: pointer;
 }
 
 .panel-ops p{
