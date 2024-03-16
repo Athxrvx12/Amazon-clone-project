@@ -123,6 +123,7 @@ span{
 
 .panel-ops p{
     display: inline;
+    margin-left: 10px;
 }
 
 .panel-ops{
@@ -132,5 +133,5 @@ span{
 
 .panel-deals{
      font-size: 0.9rem;
-     font-weight: ;
+     font-weight: 700;
 }
