@@ -126,6 +126,10 @@ span{
     margin-left: 10px;
 }
 
+.panel-ops a{
+    text-decoration: underline white solid 2px;
+}
+
 .panel-ops{
     width: 70%;
     font-size: 0.85rem;
