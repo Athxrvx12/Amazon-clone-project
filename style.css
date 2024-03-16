@@ -121,11 +121,6 @@ span{
     justify-content: space-evenly;
 }
 
-.panel-ops button{
-    display: inline;
-    margin-left: 10px;
-}
-
 .panel-one{
     background-color: none;
 }
