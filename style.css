@@ -124,6 +124,7 @@ span{
 .panel-ops div{
     display: inline;
     margin-left: 10px;
+    border: #f3f3f3;
 }
 
 .panel-ops{
