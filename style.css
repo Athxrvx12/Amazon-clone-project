@@ -124,3 +124,7 @@ span{
 .panel-ops p{
     display: inline;
 }
+
+.panel-ops{
+    width: 70px;
+}
