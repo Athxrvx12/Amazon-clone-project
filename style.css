@@ -113,5 +113,6 @@ span{
 
 /** panel **/
 .panel{
+    height: 40px;
     
 }
