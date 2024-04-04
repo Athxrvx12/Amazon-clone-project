@@ -153,3 +153,7 @@ span{
     align-items: center;
     justify-content: center;
 }
+
+.hero-msg a{
+    color: #007185;
+}
