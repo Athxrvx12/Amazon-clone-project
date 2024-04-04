@@ -144,3 +144,8 @@ span{
     background-size: cover;
     height: 600px;
 }
+
+.hero-msg {
+    background-color: white;
+    color: black;
+}
