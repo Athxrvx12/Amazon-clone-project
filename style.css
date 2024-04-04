@@ -149,4 +149,7 @@ span{
     background-color: white;
     color: black;
     height: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
