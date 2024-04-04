@@ -168,7 +168,7 @@ span{
 .shop-section{
     display: flex;
     justify-content: space-evenly;
-    background-color: rgb(139, 249, 187);
+    background-color: #e2e6e7;
 }
 
 .box{
