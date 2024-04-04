@@ -144,6 +144,7 @@ span{
     background-size: cover;
     height: 600px;
     display: flex;
+    justify-content: center;
 }
 
 .hero-msg {
