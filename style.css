@@ -215,6 +215,7 @@ span{
     background-color: #222f3d;
     color: white;
     height: 500px;
+    display: flex;
 }
 
 ul a{
