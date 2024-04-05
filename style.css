@@ -220,6 +220,7 @@ span{
 
 ul a{
     display: block;
+    color: #DDDDDD;
     font-size: 0.85rem;
     margin-top: 10px;
 }
