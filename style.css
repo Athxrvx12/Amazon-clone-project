@@ -214,4 +214,9 @@ span{
 .foot-panel2{
     background-color: #222f3d;
     color: white;
+    height: 500px;
+}
+
+ul a{
+    display: block;
 }
