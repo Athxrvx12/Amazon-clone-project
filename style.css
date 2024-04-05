@@ -218,6 +218,10 @@ span{
     justify-content: space-evenly;
 }
 
+ul{
+    margin-top: 10px;
+}
+
 ul a{
     display: block;
     color: #DDDDDD;
