@@ -241,7 +241,4 @@ ul a{
     background-size: cover;
     height: 50px;
     width: 100px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
 }
