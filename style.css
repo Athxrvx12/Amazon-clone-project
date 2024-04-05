@@ -215,6 +215,7 @@ span{
     color: white;
     height: 300px;
     display: flex;
+    justify-content: space-evenly;
 }
 
 ul a{
