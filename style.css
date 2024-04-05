@@ -235,3 +235,10 @@ ul a{
     border-top: 0.5px solid white;
     height: 70px;
 }
+
+.logo{
+    background-image: url(/amazon_logo.png);
+    background-size: cover;
+    height: 50px;
+    width: 100px;
+}
